@@ -1,0 +1,8 @@
+payload:
+  #  ookla
+  - DOMAIN-SUFFIX,speedtest.net,Speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+  #  cloudflare
+  - DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
+  #  netflix
+  - DOMAIN-SUFFIX,fast.com,Speedtest
