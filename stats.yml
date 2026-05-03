@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,my.com,no-resolve
+  - DOMAIN-SUFFIX,apptracer.ru,no-resolve
+
