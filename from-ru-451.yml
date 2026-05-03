@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,4pda.to,451
-  - DOMAIN-SUFFIX,4pda.ws,451
-  - DOMAIN-SUFFIX,habr.com,451
+  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-SUFFIX,4pda.ws
+  - DOMAIN-SUFFIX,habr.com
