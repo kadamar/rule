@@ -1,4 +1,5 @@
 payload:
+#  MAX
   - DOMAIN-SUFFIX,ipv4-internet.yandex.net
   - DOMAIN-SUFFIX,ipv6-internet.yandex.net
   - DOMAIN-SUFFIX,ifconfig.me

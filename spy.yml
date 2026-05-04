@@ -1,4 +1,5 @@
 payload:
+#  Telega
   - DOMAIN-SUFFIX,telega.info,no-resolve
   - DOMAIN-SUFFIX,dahlmessenger.com,no-resolve
   - IP-CIDR,130.49.152.0/24,no-resolve
